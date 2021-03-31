@@ -1,0 +1,23 @@
+<UI version="4.0" >
+ <class>QDx12Wid</class>
+ <widget class="QWidget" name="QDx12Wid" >
+  <property name="objectName" >
+   <string notr="true">QDx12Wid</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+	<x>0</x>
+	<y>0</y>
+	<width>400</width>
+	<height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>QDx12Wid</string>
+  </property>
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources/>
+ <connections/>
+</UI>
